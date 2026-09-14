@@ -16,7 +16,7 @@ span {
 header {
      display: flex;
      justify-content: space-between;
-     align-items: center;
+     align-items: center; 
     
      #logo {
         padding-left: 30px;
@@ -87,7 +87,6 @@ h2 {
 .card img {
     width: 100%;
     object-fit: cover;
-    border-radius: 10px;
 }
 
 .card {
